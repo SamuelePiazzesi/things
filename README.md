@@ -83,4 +83,26 @@ cachix use devenv
 nix-env -if https://github.com/cachix/devenv/tarball/latest
 ```
 
-
+## Install the apps :rocket:
+- [ ] Install everything you can with
+```
+brew install --cask \
+    visual-studio-code \
+    docker \
+    arc \
+    google-chrome
+    firefox \
+    font-forge \
+    Kap \
+    notion \
+    orb-stack \
+    picture-view \
+    raycast \
+    run-js \
+    teampaper-snap \
+    postman
+    vlc \
+    monitor-control \
+    rectangle \
+    figma
+```
