@@ -50,6 +50,7 @@ brew doctor
 
 ### Shell
 - [ ] Install Warp
+- [ ] Install [Fonts](https://input.djr.com/) and [icons](https://github.com/ryanoasis/nerd-fonts)
 ```
 brew install --cask warp
 ```
